@@ -1,29 +1,37 @@
+# Hi there 👋, Mahak here. 
+[![GitHub followers](https://img.shields.io/github/followers/MahakDewangan.svg?style=social&label=Follow)](https://github.com/MahakDewangan?tab=followers)<br/>
 
-<p align="center">
+<!--
+**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
-</p>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-### My-self Mahak Dewangan 👩‍💻💻
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 💻 Want to be Web developer.
-- 👩🏻‍  I’m currently working on ❤️C ❤️HTML ❤️CSS ❤️JAVASCRIPT ❤️Python
-- 🤔 I’m looking for help with Web Development
-- 💬 Ask me about C, tech stuffs
+I am an undergraduate Computer Science and Engineering student at Manipal University Jaipur. My programming skills include C, C++, Python, Javascript, and HTML. I enjoy learning and creating something new, productive, original, and creative.
+* **I am interested in Web & App development**
+- 🌱 I’m currently learning...
+  - C Lang
+  - FLutter
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything related to college and tech! <br>
+- 📫 Reach out to me at: [mahakdewangan14@gmail.com](mailto:mahakdewangan14@gmail.com)
 
-## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MahakDewangan&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Mahak Dewangan |Stats" />
-   
-   <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahakDewangan&theme=dracula&hide_border=true"  width="520" alt="MahakDewangan"/></a>
+<h2>👀 My github Stats</h2>
+
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=MahakDewangan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
   
-![Mahak's Trophy](https://github-profile-trophy.vercel.app/?username=MahakDewangan&theme=dracula&column=4&no-frame=true)
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahakDewangan" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahakDewangan&theme=dracula)](https://github.com/MahakDewangan/github-readme-stats"/>
- 
-  </div>
-
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
-
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MahakDewangan&theme=dark" /> </p>
+![My github status](https://github-readme-stats.vercel.app/api?username=MahakDewangan&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahakDewangan&layout=compact)
